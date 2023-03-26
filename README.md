@@ -3,7 +3,7 @@ Interior &amp; Construction design website using html css and javascript
 
 **Live site -** [https://luxury-interior.netlify.app/](https://luxury-interior.netlify.app/)
 
-#Preview
+# Preview
 ![img01](https://user-images.githubusercontent.com/83011210/227756786-f43a14b4-e2ee-4839-9490-ddd480fa9881.png)
 ![img02](https://user-images.githubusercontent.com/83011210/227756803-8da2e912-0fff-4f53-9e87-ee71d4fafb1e.png)
 ![img03](https://user-images.githubusercontent.com/83011210/227756815-9f12b1dd-0efc-419d-bcc4-61695ba1234f.png)
