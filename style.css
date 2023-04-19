@@ -94,27 +94,6 @@ a:active {
 }
 
 
-
-/* Topbar 
-------------- */
-.topbar {
-    padding: 0.5rem 6rem;
-    background: var(--color-base);
-    font-family: 'Berlin Sans FB';
-}
-
-.info-content div span {
-    color: #fff;
-    font-size: 1.1rem;
-}
-
-.info-content p,
-.location-topbar p {
-    color: #fff;
-    font-size: 1.1rem;
-}
-
-
 /* Header
 ------------- */
 .header {
