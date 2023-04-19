@@ -34,10 +34,6 @@
     src: local('Berlin Sans FB Bold'), url('./fonts/BerlinSansFBWebfont/BRLNSB.woff') format('woff');
 }
 
-
-
-
-
 /* Global Settings
 ------------------------ */
 *,
@@ -99,8 +95,6 @@ a:active {
 
 
 
-
-
 /* Topbar 
 ------------- */
 .topbar {
@@ -119,10 +113,6 @@ a:active {
     color: #fff;
     font-size: 1.1rem;
 }
-
-
-
-
 
 
 /* Header
@@ -243,10 +233,6 @@ a:active {
     color: var(--color-base) !important;
     border: 2px solid var(--color-base);
 }
-
-
-
-
 
 /* Breadcrumb 
 ----------------- */
