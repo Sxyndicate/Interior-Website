@@ -169,3 +169,11 @@ for (let i = 0; i < galleryContent.length; i++) {
         window.location = 'project.html';
     }
 }
+
+/* ===================== Email JS  ==================================*/
+const contactForm = document.getElementById('contact-form'),
+      contactMessage = document.getElementById('contact-message');
+
+const sendEmail = (e) =>{
+    e.preventDefault()
+}
