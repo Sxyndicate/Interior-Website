@@ -176,4 +176,10 @@ const contactForm = document.getElementById('contact-form'),
 
 const sendEmail = (e) =>{
     e.preventDefault()
+
+    // Service ID - Template ID - #Form - Public Key
+
+    emailjs.sendForm('service_wbttitl', 'template_hjyiz6l')
 }
+
+contactForm.addEventListener('submit', sendEmail)
