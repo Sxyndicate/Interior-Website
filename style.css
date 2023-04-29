@@ -1434,7 +1434,7 @@ input[type=number] {
 .footer {
     padding-top: 3rem;
     background: #0f0d17;
-    font-family: 'Berlin Sans FB';
+    font-family: '';
 }
 
 .footer-content {

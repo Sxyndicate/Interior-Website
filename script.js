@@ -179,7 +179,23 @@ const sendEmail = (e) =>{
 
     // Service ID - Template ID - #Form - Public Key
 
-    emailjs.sendForm('service_wbttitl', 'template_hjyiz6l')
+    emailjs.sendForm('service_wbttitl', 'template_hjyiz6l', '#contact-form', 'GykbMn32AwT8hwHkH')
+        .then(() =>{
+            //Show sent message
+            contactMessage.textContent = 'Message sent successfully!'
+
+            //Remove message after five seconds
+            setTimeout(() =>{
+                contactMessage.textContent = ''
+            }, 5000)
+
+            //Clear input Fields
+            contactForm.reset()
+
+        }, () =>{
+            //Show Error Message
+            contactMessage.textContent = 'Message not sent. (service error'
+        })
 }
 
 contactForm.addEventListener('submit', sendEmail)
