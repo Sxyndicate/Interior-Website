@@ -10,17 +10,17 @@
 }
 */
 @font-face {
-    font-family: 'Berlin Sans FB';
+    font-family: '';
     font-style: normal;
     font-weight: normal;
-    src: local('Berlin Sans FB'), url('./fonts/BerlinSansFBWebfont/BRLNSR.woff') format('woff');
+    src: local(''), url('./fonts/BerlinSansFBWebfont/BRLNSR.woff') format('woff');
 }
 
 @font-face {
-    font-family: 'Berlin Sans FB Bold';
+    font-family: '';
     font-style: normal;
     font-weight: normal;
-    src: local('Berlin Sans FB Bold'), url('./fonts/BerlinSansFBWebfont/BRLNSB.woff') format('woff');
+    src: local(''), url('./fonts/BerlinSansFBWebfont/BRLNSB.woff') format('woff');
 }
 
 /* Global Settings
@@ -64,7 +64,7 @@ a:active {
     font-weight: 600;
     text-align: center;
     text-transform: uppercase;
-    font-family: BerlinSansFBDemiBold;
+    font-family:'';
 }
 
 .section-title h1 span {
@@ -489,7 +489,7 @@ a:active {
     display: -ms-grid;
     display: grid;
     place-items: center;
-    font-family: 'Berlin Sans FB';
+    font-family: '';
 }
 
 .wrapper {
@@ -872,7 +872,7 @@ a:active {
     padding: 5rem 0 2rem 0;
     height: auto;
     width: 100%;
-    font-family: 'Berlin Sans FB';
+    font-family: '';
 }
 
 .about-wrap {
@@ -963,7 +963,7 @@ a:active {
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
-    font-family: 'Berlin Sans FB';
+    font-family: '';
 }
 
 .review-title {
@@ -1189,7 +1189,7 @@ a:active {
     margin-bottom: 0 !important;
     color: #fff;
     font-size: 1.5rem;
-    font-family: 'Berlin Sans FB';
+    font-family: '';
 }
 
 
@@ -1298,7 +1298,7 @@ a:active {
 ----------------- */
 .contact {
     padding: 5rem 0;
-    font-family: 'Berlin Sans FB';
+    font-family: '';
 }
 
 .contact-wrap {
