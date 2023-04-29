@@ -182,7 +182,7 @@ const sendEmail = (e) =>{
     emailjs.sendForm('service_wbttitl', 'template_hjyiz6l', '#contact-form', 'GykbMn32AwT8hwHkH')
         .then(() =>{
             //Show sent message
-            contactMessage.textContent = 'Message sent successfully!'
+            contactMessage.textContent = 'Message sent successfully! ✅'
 
             //Remove message after five seconds
             setTimeout(() =>{
@@ -194,7 +194,7 @@ const sendEmail = (e) =>{
 
         }, () =>{
             //Show Error Message
-            contactMessage.textContent = 'Message not sent. (service error'
+            contactMessage.textContent = 'Message not sent. (service error) ❌'
         })
 }
 
