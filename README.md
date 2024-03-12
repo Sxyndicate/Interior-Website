@@ -1,7 +1,7 @@
 # Wings-Website
-Interior &amp; Construction design website using html css and javascript
+Wings &amp; of Deliverence website design using html css and javascript
 
-**Live site -** [https://luxury-interior.netlify.app/](https://luxury-interior.netlify.app/)
+**Live site -** [https://wingsfunerals.co.za/](https://wingsfunerals.co.za/)
 
 # Documentation
 Dear programmer, when i wrote this code, only God and i knew how it worked. 
