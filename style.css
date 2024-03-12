@@ -912,7 +912,7 @@ a:active {
 }
 
 .about-description h1 {
-    color: steelblue;
+    color: rgb(110, 11, 11);
     margin-top: 1.2rem;
     font-size: 2.6rem;
 }
@@ -931,7 +931,7 @@ a:active {
     border: none;
     outline: none;
     cursor: pointer;
-    background: steelblue;
+    background: rgb(119, 11, 11);
     border-radius: 0.1rem;
 }
 
@@ -966,7 +966,7 @@ a:active {
 }
 
 .review-title h1 span {
-    color: skyblue;
+    color: rgb(226, 60, 60);
 }
 
 .review-wrap {
